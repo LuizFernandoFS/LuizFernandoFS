@@ -1,5 +1,6 @@
-## Hi, my name is Luiz :metal: ##
-- 🔭 I’m currently working on helpdesk
-- 🌱  I’m currently learning Spring Boot and Angular
-- 🤔 I'm looking for the opportunity of the first vacancy in the area of software development
-- :computer: Student of the 4th period of the IFPR Systems Analysis and Development course
+## Olá, meu nome é Luiz :metal:
+- Atualmente trabalho com suporte ao usuário 👨‍💻
+- Estudando Spring Boot e Angular 💡
+- A procura da primeira oportunidade na área de Desenvolvimento De Software 🚀
+- 👨‍🎓 Estudante do 4º período em Análise E Desenvolvimento De Sistemas
+do IFPR(Instituto Federal Do Parána) 4/6⏳ 
